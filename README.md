@@ -15,3 +15,5 @@
   * **Java**:Core programming language.
   * **Scanner class**:To get input from the user.
   * **OOPs Concepts**: Leverged **Inheritance** and **Method Overriding** to build new features upon existing ones, ensuring a modular and scalable structure
+  * **Exception Handling**:Used **try-catch**blocks invalid inputs (like entering text instead of number) and to manage runtime errors gracefully, ensuring the application doesn't crash.
+
