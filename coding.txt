@@ -1,0 +1,12 @@
+  public class First{
+     int a;
+     String b;
+  
+  public static void main(String []args){
+    
+	First obj = new First();
+      obj.a=10;
+	  obj.b="Nirmal TCS";
+  
+    } 
+  }
